@@ -1,7 +1,7 @@
+###########
+# Package: Physiological Rate of Change in GCIPL and RNFL
 ################################################################################
-# 
-# Package: Cirrus-OCT-Signal-Adjustment
-# Copyright (C) 2020  Marco Chak-Yan YU
+# Copyright (C) 2023  Marco Chak-Yan YU
 # 
 # This program is under the terms of the GNU General Public License
 # as published by the Free Software Foundation, version 2 of the License.
