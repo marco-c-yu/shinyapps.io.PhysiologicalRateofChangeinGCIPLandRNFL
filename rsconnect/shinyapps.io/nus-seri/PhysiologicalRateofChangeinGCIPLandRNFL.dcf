@@ -1,0 +1,13 @@
+name: PhysiologicalRateofChangeinGCIPLandRNFL
+title: PhysiologicalRateofChangeinGCIPLandRNFL
+username: nus-seri
+account: nus-seri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11540484
+bundleId: 8394539
+url: https://nus-seri.shinyapps.io/PhysiologicalRateofChangeinGCIPLandRNFL/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: rate.models.sces12.R|www/user_guide.docx
